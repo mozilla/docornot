@@ -1,0 +1,12 @@
+datasets
+tqdm
+Pillow
+huggingface_hub
+transformers
+torch
+accelerate
+evaluate
+numpy
+accuracy
+codecarbon
+
